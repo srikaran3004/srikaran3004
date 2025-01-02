@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://t3.ftcdn.net/jpg/09/87/86/20/360_F_987862060_tuPwetEZI6SZkRTnQVQOqXljhLnAkQvM.jpg" alt="MasterHead">
+  <img src="https://t3.ftcdn.net/jpg/09/87/86/20/360_F_987862060_tuPwetEZI6SZkRTnQVQOqXljhLnAkQvM.jpg" alt="MasterHead" width="500" height="300">
 </div>
 <h1 align="center">Hi 👋, I'm Srikaran Devarakonda</h1>
 <h3 align="center">A passionate Full Stack Developer </h3><br>
