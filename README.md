@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/Srikaran3004" target="blank"><img src="https://img.shields.io/twitter/follow/Srikaran3004?logo=twitter&style=for-the-badge" alt="Srikaran3004"></a></p>
 
-- 🔭 I’m currently working on **Integrating AI with Full Stack Applications for impactful solutions.**
+- 🔭 I’m currently working on **Integrating AI with Full Stack Applications   for impactful solutions.**
 
 - 🌱 I’m currently mastering **Full Stack Development and Machine Learning**
 
