@@ -84,6 +84,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikaran3004&&theme=tokyonight" alt="srikaran3004" /></p>
 
+  <img alt="github-snake" src="https://raw.githubusercontent.com/srikaran3004/srikaran3004/output/github-snake.svg" />
+
 
 
 
